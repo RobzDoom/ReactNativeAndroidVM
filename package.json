@@ -12,7 +12,9 @@
   "dependencies": {
     "@types/react": "^16.9.35",
     "@types/react-native": "^0.62.10",
+    "eslint-config-prettier": "^6.11.0",
     "native-base": "^2.13.12",
+    "prettier": "^2.0.5",
     "react": "^16.13.1",
     "react-native": "0.62.2",
     "react-native-typescript-transformer": "^1.2.13",
